@@ -1,0 +1,1 @@
+default['sublime-text']['user_installs'] = []
